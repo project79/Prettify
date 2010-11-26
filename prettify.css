@@ -1,0 +1,8 @@
+.str,.atv{color:#080;}
+.kwd,.tag{color:#008;}
+.com{color:#800;}
+.typ,.atn,.dec{color:#606;}
+.lit{color:#066;}
+.pun{color:#660;}
+.pln{color:#000;}
+pre.prettyprint{overflow:auto;}
